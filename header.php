@@ -7,5 +7,5 @@
   </head>
   <body <?php body_class(); ?>>
     <div>
-      hi this is footer
+      hi this is header
     </div>
